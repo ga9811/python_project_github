@@ -1,0 +1,3 @@
+The main function of automail is to automatically send emails in batches using SMTP of email.
+One problem solved in the process is to fix the cover letter template. Using the company name and email address as variables, the cover letter will be automatically generated.
+In addition, attachments will be added automatically. The attachments are mainly resume files, or other related documents can be used as attachments. If you develop on this basis, you can create a UI, match the technology stack, and find the main technical requirements. If it can be matched, an email will be sent, and crawler technology can be used to find the company address and email address of the page.
